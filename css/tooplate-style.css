@@ -112,7 +112,7 @@ b, strong {
   vertical-align: top;
   margin-top: 5px;
   min-width: 260px;
-  position: relative;
+  /* position: relative; */
 }
 
 .animated-item {
